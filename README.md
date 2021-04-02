@@ -1,4 +1,4 @@
-Python If-Then-Else- Statements
+Python If-Then-Else Statements
 -------------------------------
 
 Python supports the usual logical conditions from mathematics:
